@@ -74,7 +74,7 @@ Detalle (en inglés): [docs/models.md](docs/models.md).
 | [templates/evidence-matrix.md](templates/evidence-matrix.md) | Cómo registrar y calificar evidencia (también en [CSV](templates/evidence-matrix.csv)) |
 | [templates/interview-guide.md](templates/interview-guide.md) | Preguntas de entrevista por rol |
 | [templates/report-outline.md](templates/report-outline.md) | Estructura del informe, convenciones de puntuación y formato de hoja de ruta |
-| [Diseño de workshops](https://github.com/ckachury/liberating-structures-for-quality/blob/main/sessions/test-process-assessment-workshops.md) | Cuatro workshops de levantamiento con Estructuras Liberadoras |
+| [Diseño de workshops](https://github.com/ckachury/liberating-structures-for-quality/blob/HEAD/sessions/test-process-assessment-workshops.md) | Cuatro workshops de levantamiento con Estructuras Liberadoras |
 
 Los documentos detallados están en inglés; este README resume su contenido.
 
