@@ -74,7 +74,7 @@ Details: [docs/models.md](docs/models.md).
 | [templates/evidence-matrix.md](templates/evidence-matrix.md) | How to record and rate evidence (also as [CSV](templates/evidence-matrix.csv)) |
 | [templates/interview-guide.md](templates/interview-guide.md) | Interview questions by role |
 | [templates/report-outline.md](templates/report-outline.md) | Assessment report structure, scoring conventions and roadmap format |
-| [Workshop designs](https://github.com/ckachury/liberating-structures-for-quality/blob/main/sessions/test-process-assessment-workshops.md) | Four evidence-gathering workshops built with Liberating Structures |
+| [Workshop designs](https://github.com/ckachury/liberating-structures-for-quality/blob/HEAD/sessions/test-process-assessment-workshops.md) | Four evidence-gathering workshops built with Liberating Structures |
 
 ## Related work
 
