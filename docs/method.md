@@ -35,7 +35,7 @@ Outputs: assessment plan, business drivers, stakeholder map, document inventory.
 | Document review | Read policies, plans, reports, templates | What is defined and how formal it is |
 | Tool data | Exports from test management, defect and CI tools | What actually happens, at scale |
 | Interviews | 45–60 min, one role at a time ([guide](../templates/interview-guide.md)) | Reasons, constraints, decisions |
-| Workshops | 60 min, 6–10 people, Liberating Structures ([designs](https://github.com/ckachury/liberating-structures-for-quality/blob/main/sessions/test-process-assessment-workshops.md)) | Shared practice, tensions, ideas from the team |
+| Workshops | 60 min, 6–10 people, Liberating Structures ([designs](https://github.com/ckachury/liberating-structures-for-quality/blob/HEAD/sessions/test-process-assessment-workshops.md)) | Shared practice, tensions, ideas from the team |
 | Observation | Attend a planning, a triage or a release meeting | Real involvement of stakeholders |
 
 Rules:
