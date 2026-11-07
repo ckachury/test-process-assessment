@@ -83,7 +83,7 @@ Details: [docs/models.md](docs/models.md).
 
 ## Notes
 
-TMMi® is a registered trademark of the TMMi Foundation. TPI® NEXT is a model by Sogeti. This repository describes how I apply them and does not replace the official publications. Content is shared under [CC BY 4.0](LICENSE).
+TMMi® is a registered trademark of the TMMi Foundation. TPI® NEXT is a model by Sogeti. This repository describes how I apply them and does not replace the official publications. Content is shared under [CC BY-NC-ND 4.0](LICENSE).
 
 ---
 
