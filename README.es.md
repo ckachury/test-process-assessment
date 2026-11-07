@@ -85,7 +85,7 @@ Los documentos detallados están en inglés; este README resume su contenido.
 
 ## Notas
 
-TMMi® es marca registrada de TMMi Foundation. TPI® NEXT es un modelo de Sogeti. Este repositorio describe cómo los aplico y no reemplaza las publicaciones oficiales. Contenido compartido bajo [CC BY 4.0](LICENSE).
+TMMi® es marca registrada de TMMi Foundation. TPI® NEXT es un modelo de Sogeti. Este repositorio describe cómo los aplico y no reemplaza las publicaciones oficiales. Contenido compartido bajo [CC BY-NC-ND 4.0](LICENSE).
 
 ---
 
